@@ -16,7 +16,7 @@ URL публичного Git-репозитория с go.mod
 go run main.go <git-repo-url>
 ```
 
-## Пример
+## Пример запуска
 
 ```bash
 go run main.go https://github.com/HummerYT/Avito
