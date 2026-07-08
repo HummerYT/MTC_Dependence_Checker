@@ -2,7 +2,7 @@
 
 CLI для анализа зависимостей Go-репозитория.
 
-## Входные данные
+go run main.go https://github.com/HummerYT/Avito## Входные данные
 URL публичного Git-репозитория с go.mod
 
 ## Выходные данные
@@ -16,7 +16,7 @@ URL публичного Git-репозитория с go.mod
 go run main.go <git-repo-url>
 ```
 
-## Пример запуска
+## Пример
 
 ```bash
 go run main.go https://github.com/HummerYT/Avito
